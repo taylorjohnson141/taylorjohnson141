@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 
 [![Taylor's github stats](https://github-readme-stats.vercel.app/api?username=taylorjohnson141&show_icons=true&theme=dracula)](https://github.com/taylorjohnson141/github-readme-stats)
 
-### Hi I'm Taylor Johnson a Fullstack Developer
+### Who am I? 
+
+I'm Taylor Johnson a Fullstack Developer
 
 I am passionate about writing good code that has a positive effect on others.
+
+I enjoy being creative, learning new things and working hard.
 
 
 ## Currently 

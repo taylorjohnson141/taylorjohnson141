@@ -38,7 +38,7 @@ I am able to learn and implement quickly.
 
 Javascript is currently my strongest language with React being my strongest framework
 
-[![Taylor's github stats](https://github-readme-stats.vercel.app/api?username=taylorjohnson141)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dracula)
+[![Taylor's github stats](https://github-readme-stats.vercel.app/api?username=taylorjohnson141)](https://github.com/taylorjohnson141/github-readme-stats&show_icons=true&theme=dracula)
 
 
 

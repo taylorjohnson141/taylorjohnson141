@@ -45,4 +45,4 @@ I have a deep understanding of JavaScript and React.
 
 
 
-
+Icons from [!github-readme-stats](https://github.com/anuraghazra/github-readme-stats/commits?author=anuraghazra)

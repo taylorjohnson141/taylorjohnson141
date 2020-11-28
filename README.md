@@ -49,8 +49,11 @@ I enjoy collaborating with others.
 
 ### My Current Stack
 Languages : JavaScript, Css
+
 FrameWorks : React
+
 State-Management: Redux, React-hooks
+
 Testing Libraries : React-Testing Library, Jest, Chai, Mocha
 
 

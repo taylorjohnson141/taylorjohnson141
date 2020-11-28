@@ -50,7 +50,7 @@ I enjoy collaborating with others.
 ### My Current Stack
 Languages : JavaScript, Css
 
-FrameWorks : React
+Frameworks : React
 
 State-Management: Redux, React-hooks
 

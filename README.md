@@ -45,7 +45,13 @@ I am a strong communicator who listens.
 
 I am able to learn and implement quickly.
 
-I have a deep understanding of JavaScript and React.
+I enjoy collaborating with others.
+
+### My Current Stack
+Languages : JavaScript, Css
+FrameWorks : React
+State-Management: Redux, React-hooks
+Testing Libraries : React-Testing Library, Jest, Chai, Mocha
 
 
 

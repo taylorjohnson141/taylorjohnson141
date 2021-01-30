@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Who am I? 
 
-I'm Taylor Johnson a Fullstack Developer
+I'm Taylor Johnson a FrontEnd Developer
 
 I am passionate about writing good code that has a positive effect on others.
 
@@ -27,11 +27,9 @@ I enjoy being creative, learning new things and working hard.
 
 ## Currently 
 
-I am studying Front-End Development at Turing School of Software and Design
+Looking for work!
 
-I am working on a Spanish Learning tool called Learnlo.
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=taylorjohnson141&repo=learnlo)](https://github.com/taylorjohnson141/learnlo)
+I am working on my Portfolio site
 
 
 ### What am I looking for?

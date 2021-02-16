@@ -46,11 +46,11 @@ I am able to learn and implement quickly.
 I enjoy collaborating with others.
 
 ### My Current Stack
-Languages : JavaScript, Css
+Languages : JavaScript, CSS, TypeScript, GraphQL
 
 Frameworks : React
 
-State-Management: Redux, React-hooks
+State-Management: Redux, React-Hooks
 
 Testing Libraries : React-Testing Library, Jest, Chai, Mocha
 

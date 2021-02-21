@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Who am I? 
 
-I'm Taylor Johnson a Front-end Developer
+I'm Taylor Johnson a Front-End Developer
 
 I am passionate about writing good code that has a positive effect on others.
 

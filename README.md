@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Who am I? 
 
-I'm Taylor Johnson a FrontEnd Developer
+I'm Taylor Johnson a Front-end Developer
 
 I am passionate about writing good code that has a positive effect on others.
 
@@ -46,9 +46,9 @@ I am able to learn and implement quickly.
 I enjoy collaborating with others.
 
 ### My Current Stack
-Languages : JavaScript, CSS, TypeScript, GraphQL
+Languages : JavaScript, CSS, TypeScript, GraphQL ,Knex, SQL
 
-Frameworks : React
+Frameworks : React, Express
 
 State-Management: Redux, React-Hooks
 

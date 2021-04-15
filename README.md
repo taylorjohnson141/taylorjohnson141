@@ -25,23 +25,13 @@ I am passionate about writing good code that has a positive effect on others.
 I enjoy being creative, learning new things and working hard.
 
 
-## Currently 
-
-Looking for work!
-
-I am working on my Portfolio site
-
-
-### What am I looking for?
-
-I am looking for a position where I can continually learn, grow and collaborate with others.
 
 
 ### My Strengths
 
 I am a strong communicator who listens. 
 
-I am able to learn and implement quickly.
+I am able to learn and implement new technologies and ideas quickly.
 
 I enjoy collaborating with others.
 

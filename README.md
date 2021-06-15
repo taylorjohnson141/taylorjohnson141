@@ -16,34 +16,8 @@ Here are some ideas to get you started:
 
 [![Taylor's github stats](https://github-readme-stats.vercel.app/api?username=taylorjohnson141&show_icons=true&theme=dracula)](https://github.com/taylorjohnson141/github-readme-stats)
 
-### Who am I? 
 
-I'm Taylor Johnson a Front-End Developer
-
-I am passionate about writing good code that has a positive effect on others.
-
-I enjoy being creative, learning new things and working hard.
-
-
-
-
-### My Strengths
-
-I am a strong communicator who listens. 
-
-I am able to learn and implement new technologies and ideas quickly.
-
-I enjoy collaborating with others.
-
-### My Current Stack
-Languages : JavaScript, CSS, TypeScript, GraphQL ,Knex, SQL
-
-Frameworks : React, Express
-
-State-Management: Redux, React-Hooks
-
-Testing Libraries : React-Testing Library, Jest, Chai, Mocha
-
+I'm Taylor Johnson a Developer
 
 
 Icons from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats/commits?author=anuraghazra)

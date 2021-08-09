@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Taylor's github stats](https://github-readme-stats.vercel.app/api?username=taylorjohnson141&show_icons=true&theme=dracula)](https://github.com/taylorjohnson141/github-readme-stats)
 
 
-I'm Taylor Johnson a Developer
+I'm Taylor Johnson. I enjoy developing software. 
 
 
 Icons from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats/commits?author=anuraghazra)
